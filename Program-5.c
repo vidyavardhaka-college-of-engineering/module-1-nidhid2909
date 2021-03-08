@@ -3,7 +3,7 @@
 #include<stdio.h>    
  int main ()
 { 
-     int i,j;// insert the missing code
+int i,j;// insert the missing code
 printf("Enter the values of i and j");
 scanf("%d%d",&i,&j);
      i = i + 1;
